@@ -1,2 +1,1 @@
-# vot
- Ruby
+# vote-app
